@@ -6,15 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            x61 x69
+tagline:          Artificial Ignorance
+url:              http://x61x69.fredzhao.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Fred Zhao
 
 # Custom vars
 version:          1.0.0
